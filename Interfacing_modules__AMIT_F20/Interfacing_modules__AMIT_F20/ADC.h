@@ -2,7 +2,7 @@
  * ADC.h
  *
  * Created: 8/21/2021 9:17:47 PM
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
