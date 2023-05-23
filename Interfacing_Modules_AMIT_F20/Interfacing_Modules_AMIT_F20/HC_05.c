@@ -1,7 +1,7 @@
 /*
  * HC_05.c
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 #include "HC_05.h"
 
