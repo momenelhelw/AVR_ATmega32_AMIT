@@ -1,6 +1,6 @@
 /*
  * Interfacing_Modules_AMIT_F20.c
- * Author: Cherry Hani
+ * Author: Momen Elhelw
  */ 
 #include "OUTPUT_Module.h"
 #include "SPI.h"
