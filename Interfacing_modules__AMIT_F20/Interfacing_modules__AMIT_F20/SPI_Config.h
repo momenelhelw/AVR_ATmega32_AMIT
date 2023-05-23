@@ -1,7 +1,7 @@
 /*
  * SPI_Config.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
@@ -11,16 +11,16 @@
 #include "CPU_Configurations.h"
 #include "SPI_Address.h"
 
-//SPI Control Register – SPCR
+//SPI Control Register â€“ SPCR
 #define SPIE 7
 #define SPE  6
 #define DORD 5
 #define MSTR 4
 
-//SPI Status Register – SPSR
+//SPI Status Register â€“ SPSR
 #define SPIF 7
 
-//SPI Data Register – SPDR
+//SPI Data Register â€“ SPDR
 #define MSB 7
 #define LSB 0
 
