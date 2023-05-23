@@ -1,7 +1,7 @@
 /*
  * OS_Scheduler.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
