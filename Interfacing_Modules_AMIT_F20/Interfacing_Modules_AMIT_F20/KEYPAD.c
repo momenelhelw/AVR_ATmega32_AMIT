@@ -1,7 +1,7 @@
 /*
 * KEYPAD.c
 
-*  Author: Cherry Hani
+*  Author: Momen Elhelw
 */
 
 #include "KEYPAD.h"
