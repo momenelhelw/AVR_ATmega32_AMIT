@@ -1,7 +1,7 @@
 /*
  * SPI.c
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 #include "SPI.h"
 
