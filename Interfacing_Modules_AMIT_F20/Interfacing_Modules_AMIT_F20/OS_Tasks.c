@@ -1,7 +1,7 @@
 /*
  * OS_Tasks.c
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 #include "S7SEG.h"
 #include "OS_Tasks.h"
