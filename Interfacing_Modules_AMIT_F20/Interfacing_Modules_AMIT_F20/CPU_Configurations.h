@@ -1,7 +1,7 @@
 /*
  * CPU_Configurations.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
