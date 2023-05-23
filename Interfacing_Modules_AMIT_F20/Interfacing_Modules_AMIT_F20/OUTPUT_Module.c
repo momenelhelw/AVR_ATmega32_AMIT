@@ -1,7 +1,7 @@
 /*
  * OUTPUT_Module.c
  
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
