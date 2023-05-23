@@ -1,7 +1,7 @@
 /*
 * S7SEG.h
 
-*  Author: Cherry Hani
+*  Author: Momen Elhelw
 */
 
 
