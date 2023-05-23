@@ -1,7 +1,7 @@
 /*
 * ADC.c
 
-*  Author: Cherry Hani
+*  Author: Momen Elhelw
 */
 #include "ADC.h"
 
