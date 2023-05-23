@@ -1,7 +1,7 @@
 /*
 * UART_CONFIG.h
 
-*  Author: Cherry Hani
+*  Author: Momen Elhelw
 */
 
 
