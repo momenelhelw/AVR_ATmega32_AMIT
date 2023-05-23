@@ -1,7 +1,7 @@
 /*
  * HC_05_Configuration.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
