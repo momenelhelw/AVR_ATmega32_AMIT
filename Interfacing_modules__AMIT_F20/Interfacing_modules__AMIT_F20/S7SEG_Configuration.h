@@ -1,7 +1,7 @@
 /*
  * S7SEG_Configuration.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
