@@ -1,7 +1,7 @@
 /*
  * Utilites.h
 
- *      Author: Cherry Hani
+ *      Author: Momen Elhelw
  */
 
 #ifndef UTILITES_H_
