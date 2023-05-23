@@ -2,7 +2,7 @@
  * LCD_CONFIG.h
  *
  * Created: 1/22/2021 7:00:34 PM
- *  Author: 
+ *  Author: Momen Elhelw
  */ 
 
 
