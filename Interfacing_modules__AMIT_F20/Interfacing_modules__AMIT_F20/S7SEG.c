@@ -1,7 +1,7 @@
 /*
 * S7SEG.c
 
-*  Author: Cherry Hani
+*  Author: Momen Elhelw
 */
 
 #include "S7SEG.h"
