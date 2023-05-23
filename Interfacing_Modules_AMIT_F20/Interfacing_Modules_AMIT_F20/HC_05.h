@@ -1,7 +1,7 @@
 /*
  * HC_05.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
