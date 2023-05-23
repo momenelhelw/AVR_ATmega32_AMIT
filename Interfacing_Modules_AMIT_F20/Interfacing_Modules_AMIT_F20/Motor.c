@@ -1,6 +1,6 @@
 /*
 * Motor.c
-*  Author: Cherry Hani
+*  Author: Momen Elhelw
 */
 
 #include "Motor.h"
