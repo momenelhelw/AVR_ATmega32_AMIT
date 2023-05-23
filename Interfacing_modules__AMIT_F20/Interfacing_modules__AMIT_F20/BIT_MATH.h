@@ -1,6 +1,6 @@
 /*
  * BIT_MATH.h
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
