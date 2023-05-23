@@ -1,7 +1,7 @@
 /*
  * Timer0_Config.h
 
- *  Author: Cherry Hani
+ *  Author: Momen Elhelw
  */ 
 
 
